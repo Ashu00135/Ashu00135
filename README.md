@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Suraksha net<br>👯 I’m looking to collaborate on python based applications<br>🤝 I’m looking for help with machine learnig and Ai<br>🌱 I’m currently learning python and cyber security<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Suraksha net<br>👯 I’m looking to collaborate on python based applications<br>🤝 I’m looking for help with machine learnig and Ai<br>🌱 I’m currently learning python and cyber security<br>
 
 
 ## 🌐 Socials:
